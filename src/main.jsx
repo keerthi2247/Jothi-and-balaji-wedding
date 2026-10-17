@@ -233,7 +233,7 @@ function App() {
         <div className="siblings-grid">
           <div className="siblings-card">
             <ul>
-              <li>K. Harish</li><li>K. Deepika</li><li>K. Prashant</li><li>K. Hemnath</li>
+              <li>K. Harish</li><li>K. Deepika</li><li>K. Prashanth</li><li>K. Hemnath</li>
               <li>D. Oviya</li><li>D. Surya</li><li>G. Keerthana</li><li>G. Krishna Priya</li>
             </ul>
           </div>
