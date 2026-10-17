@@ -240,7 +240,7 @@ function App() {
           <div className="siblings-card">
             <ul>
               <li>K. Harini</li><li>K. Harish</li><li>K. Abinaya</li><li>K. Dhamodharan</li>
-              <li>M. Dheekshitha</li><li>M. Pragatheesh</li><li>V. Saidhivya</li><li>V. Vaishnavi</li>
+              <li>M. Deetshitha</li><li>M. Pragadeesh</li><li>V. Saidhivya</li><li>V. Vaishnavi</li>
             </ul>
           </div>
         </div>
